@@ -1,2 +1,4 @@
 # hello-world
-Git tutorial
+Git tutorial.
+My first Git tutorial.
+Looks like fun.
